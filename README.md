@@ -32,7 +32,7 @@ SehatIn adalah platform kesehatan digital yang bertujuan untuk memudahkan akses 
 
 1. Clone repositori
 ```bash
-git clone https://github.com/username/SehatIn.git
+git clone https://github.com/RasyaGtps/SehatIn.git
 cd SehatIn
 ```
 
